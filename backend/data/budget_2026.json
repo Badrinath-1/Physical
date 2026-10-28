@@ -1,0 +1,315 @@
+{
+  "sourceInfo": {
+    "department": "Department of Empowerment of Persons with Disabilities",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "demandNo": "94",
+    "sourceTitle": "Union Budget 2026-27, Notes on Demands for Grants",
+    "sourceWebsite": "https://www.indiabudget.gov.in/doc/eb/sbe94.pdf",
+    "unit": "₹ crore",
+    "verifiedOn": "2026-07-07",
+    "note": "Financial values use official Budget Estimate (BE), Revised Estimate (RE), and Actual expenditure figures from Demand No. 94. Used/remaining amounts are not shown because same-year utilization data is not available in this file."
+  },
+  "summary": {
+    "grossActuals_2024_25": 1112.61,
+    "netActuals_2024_25": 1083.9,
+    "be_2025_26": 1275.0,
+    "re_2025_26": 1291.6,
+    "be_2026_27": 1669.72,
+    "unit": "₹ crore",
+    "source": "Union Budget 2026-27, Demand No. 94"
+  },
+  "historicalTrend": [
+    {
+      "year": "2019-20",
+      "value": 1016.18,
+      "type": "Actuals",
+      "source": "Union Budget Documents (Demand No. 94)"
+    },
+    {
+      "year": "2020-21",
+      "value": 861.63,
+      "type": "Actuals",
+      "source": "Union Budget Documents (Demand No. 94)"
+    },
+    {
+      "year": "2021-22",
+      "value": 1009.45,
+      "type": "Actuals",
+      "source": "Union Budget Documents (Demand No. 94)"
+    },
+    {
+      "year": "2022-23",
+      "value": 988.93,
+      "type": "Actuals",
+      "source": "Union Budget Documents (Demand No. 94)"
+    },
+    {
+      "year": "2023-24",
+      "value": 1142.24,
+      "type": "Actuals",
+      "source": "Union Budget Documents (Demand No. 94)"
+    },
+    {
+      "year": "2024-25",
+      "value": 1083.9,
+      "type": "Actuals",
+      "source": "Union Budget Documents (Demand No. 94)"
+    },
+    {
+      "year": "2025-26",
+      "value": 1291.6,
+      "type": "RE",
+      "source": "Union Budget 2026-27 (Revised Estimates)"
+    },
+    {
+      "year": "2026-27",
+      "value": 1669.72,
+      "type": "BE",
+      "source": "Union Budget 2026-27 (Budget Estimates)"
+    }
+  ],
+  "schemesData": [
+    {
+      "code": "ADIP",
+      "title": "ADIP Scheme",
+      "subtitle": "Assistance to Disabled Persons for Purchase/Fitting of Aids and Appliances",
+      "description": "Provides free or subsidized durable, modern, and standard aids and assistive devices (wheelchairs, hearing aids, smart canes, motorized tricycles) to PwDs to promote their rehabilitation and economic independence.",
+      "category": "National Programme for Welfare of PwDs",
+      "type": "Central Sector",
+      "be_2026_27": 375.0,
+      "re_2025_26": 330.6,
+      "actuals_2024_25": 348.81,
+      "actuals_2023_24": 290.6,
+      "source": "Union Budget 2026-27, Demand No. 94 (indiabudget.gov.in)",
+      "details": {
+        "benefits": "100% subsidy on aids costing up to ₹15,000 for families earning up to ₹15,000/month. 50% subsidy for income between ₹15,000 and ₹30,000/month.",
+        "website": "http://www.adipcochlearimplant.in"
+      },
+      "eligibilityCriteria": {
+        "minDisability": 40,
+        "maxMonthlyIncome": 30000,
+        "allowedDisabilities": [
+          "Locomotor",
+          "Hearing",
+          "Visual",
+          "Mental",
+          "Multiple"
+        ],
+        "studentOnly": false,
+        "minAge": 0,
+        "maxAge": 120
+      }
+    },
+    {
+      "code": "DDRS",
+      "title": "DDRS Scheme",
+      "subtitle": "Deendayal Disabled Rehabilitation Scheme",
+      "description": "Grant-in-aid support to voluntary organizations (NGOs) to establish and maintain special schools for children with hearing, visual, or intellectual disabilities, half-way homes, and early intervention centers.",
+      "category": "National Programme for Welfare of PwDs",
+      "type": "Centrally Sponsored",
+      "be_2026_27": 167.0,
+      "re_2025_26": 145.0,
+      "actuals_2024_25": 139.39,
+      "actuals_2023_24": 129.98,
+      "source": "Union Budget 2026-27, Demand No. 94 (indiabudget.gov.in)",
+      "details": {
+        "benefits": "Funds operational costs, professional salaries, and learning aids for special schools, early therapy centers, and community rehabilitation centers.",
+        "website": "https://www.ngodarpan.gov.in"
+      },
+      "eligibilityCriteria": {
+        "minDisability": 40,
+        "maxAnnualIncome": null,
+        "allowedDisabilities": [
+          "Locomotor",
+          "Hearing",
+          "Visual",
+          "Mental",
+          "Multiple"
+        ],
+        "studentOnly": false,
+        "minAge": 0,
+        "maxAge": 120
+      }
+    },
+    {
+      "code": "SIPDA",
+      "title": "SIPDA & Accessible India",
+      "subtitle": "Scheme for Implementation of Persons with Disabilities Act",
+      "description": "Comprehensive financial assistance for barrier-free access in buildings, public transport, websites, and government portals. Includes the Accessible India Campaign and UDID project implementation.",
+      "category": "National Programme for Welfare of PwDs",
+      "type": "Central Sector",
+      "be_2026_27": 125.0,
+      "re_2025_26": 200.0,
+      "actuals_2024_25": 44.16,
+      "actuals_2023_24": 76.79,
+      "source": "Union Budget 2026-27, Demand No. 94 (indiabudget.gov.in)",
+      "details": {
+        "benefits": "Funds accessibility retrofitting, tactile paths, ramp constructions, audio-signage, website compliance audits, and the UDID (Swavlamban Card) project.",
+        "website": "https://www.accessibleindia.gov.in"
+      },
+      "eligibilityCriteria": {
+        "minDisability": 0,
+        "maxAnnualIncome": null,
+        "allowedDisabilities": [
+          "Locomotor",
+          "Hearing",
+          "Visual",
+          "Mental",
+          "Multiple"
+        ],
+        "studentOnly": false,
+        "minAge": 0,
+        "maxAge": 120
+      }
+    },
+    {
+      "code": "NSP_SCHOLARSHIP",
+      "title": "Scholarship for PwD Students",
+      "subtitle": "National Fellowship and Scholarship for Students with Disabilities",
+      "description": "Central scholarship program providing financial assistance to students with benchmark disabilities for pursuing pre-matric, post-matric, and professional/technical degree programs in recognized institutions.",
+      "category": "Education & Scholarships",
+      "type": "Central Sector",
+      "be_2026_27": 150.0,
+      "re_2025_26": 135.0,
+      "actuals_2024_25": 89.72,
+      "actuals_2023_24": 130.07,
+      "source": "Union Budget 2026-27, Demand No. 94 (indiabudget.gov.in)",
+      "details": {
+        "benefits": "Covers maintenance allowance, tuition fee reimbursement, and special allowances (like reader allowance) ranging from ₹2,500 to ₹1,50,000 per annum.",
+        "website": "https://scholarships.gov.in"
+      },
+      "eligibilityCriteria": {
+        "minDisability": 40,
+        "maxAnnualIncome": 250000,
+        "allowedDisabilities": [
+          "Locomotor",
+          "Hearing",
+          "Visual",
+          "Mental",
+          "Multiple"
+        ],
+        "studentOnly": true,
+        "minAge": 5,
+        "maxAge": 35
+      }
+    },
+    {
+      "code": "DIVYANG_KAUSHAL",
+      "title": "Divyangjan Kaushal Yojana",
+      "subtitle": "Industry-aligned Skill Development for PwDs (New 2026-27)",
+      "description": "A new 2026-27 flagship scheme providing industry-aligned skill development and training in sectors like IT, AVGC, hospitality, and food services for Persons with Disabilities, driving dignified livelihood opportunities.",
+      "category": "New Flagship Schemes (2026-27)",
+      "type": "Central Sector",
+      "be_2026_27": 200.0,
+      "re_2025_26": null,
+      "actuals_2024_25": null,
+      "actuals_2023_24": null,
+      "source": "Union Budget 2026-27, Demand No. 94 (indiabudget.gov.in)",
+      "details": {
+        "benefits": "Subsidized skill training courses in IT, AVGC, hospitality; startup incubations; and job placement assistance linked to major industries.",
+        "website": "https://www.depwd.gov.in"
+      },
+      "eligibilityCriteria": {
+        "minDisability": 40,
+        "maxAnnualIncome": 600000,
+        "allowedDisabilities": [
+          "Locomotor",
+          "Hearing",
+          "Visual",
+          "Mental",
+          "Multiple"
+        ],
+        "studentOnly": false,
+        "minAge": 18,
+        "maxAge": 45
+      }
+    },
+    {
+      "code": "DIVYANG_SAHARA",
+      "title": "Divyang Sahara Yojana",
+      "subtitle": "Scale-up of Assistive Technologies via ALIMCO (New 2026-27)",
+      "description": "A new 2026-27 flagship scheme focused on providing timely access to high-quality assistive devices and supporting ALIMCO to scale up production, including establishment of Assistive Technology Marts.",
+      "category": "New Flagship Schemes (2026-27)",
+      "type": "Central Sector",
+      "be_2026_27": 100.0,
+      "re_2025_26": null,
+      "actuals_2024_25": null,
+      "actuals_2023_24": null,
+      "source": "Union Budget 2026-27, Demand No. 94 (indiabudget.gov.in)",
+      "details": {
+        "benefits": "Funds ALIMCO infrastructure upgrade, Assistive Technology Marts, and distribution of carbon-fiber limbs, active wheelchairs, and digital hearing aids.",
+        "website": "https://www.alimco.in"
+      },
+      "eligibilityCriteria": {
+        "minDisability": 40,
+        "maxMonthlyIncome": 45000,
+        "allowedDisabilities": [
+          "Locomotor",
+          "Hearing",
+          "Visual",
+          "Mental",
+          "Multiple"
+        ],
+        "studentOnly": false,
+        "minAge": 0,
+        "maxAge": 120
+      }
+    },
+    {
+      "code": "AUTONOMOUS_BODIES",
+      "title": "National Institutes & Autonomous Bodies",
+      "subtitle": "Project-Based Support to NIEPID, NIEPMD, SVNIRTAR, AYJNIHH, RCI, etc.",
+      "description": "Core research, therapeutic service, and rehabilitation grants for National Institutes and Autonomous Bodies including the Rehabilitation Council of India, Centre for Disability Sports, and National Trust.",
+      "category": "Autonomous Bodies & Institutes",
+      "type": "Central Sector",
+      "be_2026_27": 511.72,
+      "re_2025_26": 443.0,
+      "actuals_2024_25": 457.6,
+      "actuals_2023_24": 526.15,
+      "source": "Union Budget 2026-27, Demand No. 94 (indiabudget.gov.in)",
+      "details": {
+        "benefits": "Provides free clinical diagnostic tests, physiotherapy, occupational therapy, speech language pathology, research grants, disability sports infrastructure, and special education.",
+        "website": "https://www.depwd.gov.in"
+      },
+      "eligibilityCriteria": {
+        "minDisability": 40,
+        "maxAnnualIncome": null,
+        "allowedDisabilities": [
+          "Locomotor",
+          "Hearing",
+          "Visual",
+          "Mental",
+          "Multiple"
+        ],
+        "studentOnly": false,
+        "minAge": 0,
+        "maxAge": 120
+      }
+    },
+    {
+      "code": "ESTABLISHMENT",
+      "title": "Establishment Expenditure",
+      "subtitle": "Secretariat & Chief Commissioner for PwD (CCPD)",
+      "description": "Administrative expenditure for the DEPwD Secretariat and the Office of the Chief Commissioner for Persons with Disabilities (CCPD).",
+      "category": "Establishment",
+      "type": "Central Sector",
+      "be_2026_27": 41.0,
+      "re_2025_26": 38.0,
+      "actuals_2024_25": 32.92,
+      "actuals_2023_24": null,
+      "source": "Union Budget 2026-27, Demand No. 94 (indiabudget.gov.in)",
+      "details": {
+        "benefits": "Covers the administrative functioning of the Department and oversight by the CCPD.",
+        "website": "https://www.depwd.gov.in"
+      },
+      "eligibilityCriteria": {
+        "minDisability": 0,
+        "maxAnnualIncome": null,
+        "allowedDisabilities": [],
+        "studentOnly": false,
+        "minAge": 0,
+        "maxAge": 120
+      }
+    }
+  ]
+}
